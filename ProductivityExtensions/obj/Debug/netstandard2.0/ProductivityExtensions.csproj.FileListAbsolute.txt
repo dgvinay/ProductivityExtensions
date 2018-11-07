@@ -1,0 +1,9 @@
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\bin\Debug\netstandard2.0\ProductivityExtensions.deps.json
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\bin\Debug\netstandard2.0\ProductivityExtensions.dll
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\bin\Debug\netstandard2.0\ProductivityExtensions.pdb
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\obj\Debug\netstandard2.0\ProductivityExtensions.csproj.CoreCompileInputs.cache
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\obj\Debug\netstandard2.0\ProductivityExtensions.AssemblyInfoInputs.cache
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\obj\Debug\netstandard2.0\ProductivityExtensions.AssemblyInfo.cs
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\obj\Debug\netstandard2.0\ProductivityExtensions.dll
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\obj\Debug\netstandard2.0\ProductivityExtensions.pdb
+D:\Vinay\Projects\ProductivityExtensions\ProductivityExtensions\obj\Debug\netstandard2.0\ProductivityExtensions.csprojAssemblyReference.cache
